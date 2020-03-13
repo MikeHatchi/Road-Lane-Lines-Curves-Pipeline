@@ -7,5 +7,5 @@ Developing a lane, lines and curves pipeline. The underlying idea is to create a
 
 Environment
 ---
-python 3.6
-opencv 3.4.2# Road-Lane-Lines-Curves-Pipeline
+python 3.6<br>
+opencv 3.4.2
